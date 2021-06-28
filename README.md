@@ -4,3 +4,4 @@
 <p>Call By Value</p>
 <p>Call By Refrence</p>
 <p>Call By Address</p>
+<p>Structure</p>
